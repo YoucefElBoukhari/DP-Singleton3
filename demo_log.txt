@@ -1,0 +1,12 @@
+WITHDRAW (Account1): 100.0$
+DEPOSIT (Account2): 200.0$
+TRANSFER (Account1->Account2): 50.0$
+WITHDRAW (Account1): 100.0$
+DEPOSIT (Account2): 200.0$
+TRANSFER (Account1->Account2): 50.0$
+WITHDRAW (Account1): 100.0$
+DEPOSIT (Account2): 200.0$
+TRANSFER (Account1->Account2): 50.0$
+WITHDRAW (Account1): 100.0$
+DEPOSIT (Account2): 200.0$
+TRANSFER (Account1->Account2): 50.0$
